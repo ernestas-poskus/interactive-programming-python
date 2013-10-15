@@ -29,8 +29,6 @@ When you’ve finished our course, we can’t promise that you will be a profess
 and have fun while you’re doing it.
 
 ## Course Syllabus
-Our course syllabus can be seen at www.codeskulptor.org/coursera/syllabus.html.
-
 Week	| Topics |	Mini-project
 ----|------|----
 0	| Statements, expressions, variables	| ---
