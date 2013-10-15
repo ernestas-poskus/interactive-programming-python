@@ -10,7 +10,7 @@ Our main focus will be on building simple interactive games such as Pong, Blackj
 ### University:
  -  Rice University
  
-### Workload: 8-16 hours/week:
+### Workload: 7-10 hours/week:
  - Taught In: English
  - Subtitles Available In: English
 
