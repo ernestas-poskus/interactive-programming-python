@@ -90,7 +90,6 @@ def distance_from_zero(c):
 		
 		
 		
-		
 def hotel_cost(n):
     return n * 140
     
@@ -115,3 +114,7 @@ def rental_car_cost(d):
     else:
         return total
 
+def trip_cost(c,d, spending):
+    return spending + hotel_cost(d) + plane_ride_cost(c) + rental_car_cost(d)
+    
+print trip_cost('Los Angeles',5, 600)
