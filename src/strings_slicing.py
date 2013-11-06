@@ -19,3 +19,11 @@ else:
     print new_word
 
 
+
+	
+	
+	
+animals = "catdogfrog"
+cat =    animals[:3]
+dog =    animals[3:6]
+frog =   animals[6:]
