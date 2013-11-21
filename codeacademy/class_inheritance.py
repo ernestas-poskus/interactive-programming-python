@@ -15,3 +15,9 @@ class Triangle(Shape):
         self.side1 = s1
         self.side2 = s2
         self.side3 = s3
+		
+		
+		
+		
+		
+		
